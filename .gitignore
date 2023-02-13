@@ -1,2 +1,6 @@
-#.gitignore
+#.gitignore api_keys
 *api_keys.py
+
+#.gitignore DS_Stores
+**/DS_Stores
+
